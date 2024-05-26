@@ -56,13 +56,13 @@ export default function SignUp() {
           className="border p-3 rounded-lg"
           onChange={handleChange}
         />
-        {/* <input
+        <input
           type="text"
           name=""
           id=""
           placeholder="Last name"
           className="border p-3 rounded-lg"
-        /> */}
+        />
         <input
           type="email"
           name=""
@@ -71,13 +71,13 @@ export default function SignUp() {
           className="border p-3 rounded-lg"
           onChange={handleChange}
         />
-        {/* <input
+        <input
           type="text"
           name=""
           id=""
           placeholder="PhoneNumber"
           className="border p-3 rounded-lg"
-        /> */}
+        />
         <input
           type="password"
           name=""
